@@ -17,7 +17,6 @@ class PostController extends Controller
 
     public function store(Request $request)
     {
-        Log::info('here it is coming');
         $data = $request->validate([
             'title' => 'required|string',
             'content' => 'required|string',
