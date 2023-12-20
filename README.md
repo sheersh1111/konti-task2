@@ -1,3 +1,16 @@
+# Reuirements for this Task
+1. php
+2. composer
+3. mySql
+
+# Steps to configure
+1. ### `cd konti-task2`
+2. ### `composer i`
+3. ### `php artisan migrate` this is for creating posts table in sql.
+4. ### `php artsan serve`.
+5. Go to postman and test api's.
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
