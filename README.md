@@ -1,3 +1,21 @@
+# Reuirements for this Task
+1. php
+2. composer
+3. mySql
+
+# Steps to configure
+1. Clone this repo.
+2. ### `cd konti-task2`
+3. ### `composer i`
+4. ### `php artisan migrate` this is for creating posts table in sql.
+5. ### `php artisan serve`.
+6. Go to postman and test api's.
+
+# Check Postman documentation for testing API's
+
+https://documenter.getpostman.com/view/21465485/2s9Ykq6zkB
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
