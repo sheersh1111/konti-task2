@@ -7,7 +7,7 @@
 1. ### `cd konti-task2`
 2. ### `composer i`
 3. ### `php artisan migrate` this is for creating posts table in sql.
-4. ### `php artsan serve`.
+4. ### `php artisan serve`.
 5. Go to postman and test api's.
 
 
