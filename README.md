@@ -4,11 +4,12 @@
 3. mySql
 
 # Steps to configure
-1. ### `cd konti-task2`
-2. ### `composer i`
-3. ### `php artisan migrate` this is for creating posts table in sql.
-4. ### `php artisan serve`.
-5. Go to postman and test api's.
+1. Clone this repo.
+2. ### `cd konti-task2`
+3. ### `composer i`
+4. ### `php artisan migrate` this is for creating posts table in sql.
+5. ### `php artisan serve`.
+6. Go to postman and test api's.
 
 # Check Postman documentation for testing API's
 
